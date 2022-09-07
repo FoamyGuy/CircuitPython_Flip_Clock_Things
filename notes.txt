@@ -1,0 +1,5 @@
+Use green or pink or something for transparency and try to put it at the 0 index in the palette.
+
+function that takes a list of image objects and packs them into a sheet with given width.
+
+sync and async animation options?
